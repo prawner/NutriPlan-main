@@ -9,9 +9,9 @@ body {
 }
 
 p {
-  color: #111111; /* Pastikan warna dalam format hex */
-  opacity: 0.7; /* Gunakan desimal antara 0 hingga 1 */
-  font-size: 20px; /* Tambahkan satuan px */
+  color: #111111; 
+  opacity: 0.7; 
+  font-size: 20px; 
   font-weight: bold;
 }
 
